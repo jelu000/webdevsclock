@@ -1,0 +1,1 @@
+A javascript analog clock I made from a tutorial from WebDevSimplified. https://www.youtube.com/c/WebDevSimplified  tutorial: https://www.youtube.com/watch?v=Ki0XXrlKlHY&list=PLCYldissQiD5z0BZ6_xf1gZ-8mtg1eTnF&index=128&t=762s
